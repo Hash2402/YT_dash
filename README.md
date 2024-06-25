@@ -17,10 +17,12 @@ Plotly: For interactive graphing and plotting.
 ## Installation
 Clone the repository:
 
-git clone https://github.com/your-username/ytdash.git
+git clone https://github.com/your-usernam/ytdash.git
+
 Navigate to the project directory:
 
 cd ytdash
+
 Install the required dependencies:
 
 pip install -r requirements.txt
